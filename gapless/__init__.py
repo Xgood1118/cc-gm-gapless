@@ -1,1 +1,1 @@
-"""无缝拼接时间轴"""
+from .core import *  # noqa: F401,F403
