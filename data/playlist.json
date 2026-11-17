@@ -1,0 +1,19 @@
+{
+  "segments": [
+    {
+      "name": "a",
+      "rate": 48000,
+      "samples": 48000
+    },
+    {
+      "name": "b",
+      "rate": 48000,
+      "samples": 24000
+    },
+    {
+      "name": "c",
+      "rate": 48000,
+      "samples": 0
+    }
+  ]
+}
