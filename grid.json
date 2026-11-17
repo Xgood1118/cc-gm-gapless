@@ -1,0 +1,71 @@
+{
+  "layout": [
+    {
+      "duration_ms": 1000.0,
+      "end": 48000,
+      "end_ms": 1000.0,
+      "name": "a",
+      "occurrence": 0,
+      "rate": 48000,
+      "source_samples": 48000,
+      "start": 0,
+      "start_ms": 0.0
+    },
+    {
+      "duration_ms": 500.0,
+      "end": 72000,
+      "end_ms": 1500.0,
+      "name": "b",
+      "occurrence": 1,
+      "rate": 48000,
+      "source_samples": 24000,
+      "start": 48000,
+      "start_ms": 1000.0
+    }
+  ],
+  "max_error_ms": 0.0,
+  "rate": 48000,
+  "render_sha256": "60d28b8a32bc190e2eee8776ab2ccaf6429689040301657b2292a42421915125",
+  "rendered_samples": 72000,
+  "sample_preview": [
+    28293,
+    18425,
+    29730,
+    -11905,
+    -18592,
+    29685,
+    -1041,
+    29111,
+    -9014,
+    -20206,
+    23374,
+    -13959,
+    21651,
+    1904,
+    -30118,
+    7531
+  ],
+  "seams": [
+    {
+      "index": 48000,
+      "next": {
+        "name": "b",
+        "occurrence": 1,
+        "offset_ms": 0.0,
+        "offset_samples": 0
+      },
+      "offset_ms": 1000.0,
+      "overlap_ms": 0.0,
+      "overlap_samples": 0,
+      "prev": {
+        "name": "a",
+        "occurrence": 0,
+        "offset_ms": 1000.0,
+        "offset_samples": 48000
+      }
+    }
+  ],
+  "segment_count": 2,
+  "total_ms": 1500.0,
+  "total_samples": 72000
+}
