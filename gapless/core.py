@@ -12,11 +12,6 @@ class Segment:
     samples: int
 
 
-def Segment:
-    """class"""
-    raise NotImplementedError("Segment 尚未实现")
-
-
 def load_playlist(path):
     """读播放清单"""
     raise NotImplementedError("load_playlist 尚未实现")
